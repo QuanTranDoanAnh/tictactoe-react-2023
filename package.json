@@ -1,0 +1,32 @@
+{
+  "name": "tictactoe-react-2023",
+  "version": "1.0.0",
+  "description": "A sample Tic Tac Toe game following the new React 2023 site tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuanTranDoanAnh/tictactoe-react-2023.git"
+  },
+  "keywords": [
+    "tic-tac-toe",
+    "react-2023",
+    "react-v18"
+  ],
+  "author": "Tran Doan Anh Quan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QuanTranDoanAnh/tictactoe-react-2023/issues"
+  },
+  "homepage": "https://github.com/QuanTranDoanAnh/tictactoe-react-2023#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1"
+  },
+  "devDependencies": {
+    "prettier": "^3.1.0"
+  }
+}
